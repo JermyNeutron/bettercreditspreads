@@ -1,4 +1,5 @@
 
 
 # Workspace
+venv/
 *.code-workspace
